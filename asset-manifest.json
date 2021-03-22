@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-goku-vs-vegeta/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/React-goku-vs-vegeta/static/js/main.04120014.chunk.js",
+    "main.js.map": "/React-goku-vs-vegeta/static/js/main.04120014.chunk.js.map",
+    "runtime-main.js": "/React-goku-vs-vegeta/static/js/runtime-main.b575ddf7.js",
+    "runtime-main.js.map": "/React-goku-vs-vegeta/static/js/runtime-main.b575ddf7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-goku-vs-vegeta/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f0aa3db1.chunk.js": "/React-goku-vs-vegeta/static/js/2.f0aa3db1.chunk.js",
+    "static/js/2.f0aa3db1.chunk.js.map": "/React-goku-vs-vegeta/static/js/2.f0aa3db1.chunk.js.map",
+    "static/js/3.ad7f1557.chunk.js": "/React-goku-vs-vegeta/static/js/3.ad7f1557.chunk.js",
+    "static/js/3.ad7f1557.chunk.js.map": "/React-goku-vs-vegeta/static/js/3.ad7f1557.chunk.js.map",
+    "index.html": "/React-goku-vs-vegeta/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-goku-vs-vegeta/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/React-goku-vs-vegeta/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f0aa3db1.chunk.js.LICENSE.txt": "/React-goku-vs-vegeta/static/js/2.f0aa3db1.chunk.js.LICENSE.txt",
+    "static/media/goku.6a4e5959.png": "/React-goku-vs-vegeta/static/media/goku.6a4e5959.png",
+    "static/media/logo.6ce24c58.svg": "/React-goku-vs-vegeta/static/media/logo.6ce24c58.svg",
+    "static/media/vegeta.7e652a8d.png": "/React-goku-vs-vegeta/static/media/vegeta.7e652a8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b575ddf7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f0aa3db1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.04120014.chunk.js"
+  ]
+}
